@@ -316,7 +316,6 @@ The following courses and learning material I consider important theoretical bac
     <td>Matrix Calculus and Backpropagation
       <br>
       [<a href="https://collab.hpc.ufs.ac.za/index.php/s/si2E3f8d9sT3cp7" target="_blank">slides</a>]
-      <br>
       [<a href="https://collab.hpc.ufs.ac.za/index.php/s/ntBjM5b5anHsb5d" target="_blank">notes</a>]
     </td>
     <td>
@@ -326,28 +325,44 @@ The following courses and learning material I consider important theoretical bac
         <li><a href="http://cs231n.github.io/optimization-2/" target="_blank">CS231n notes on backprop</a> (stanford)</li>
         <li><a href="http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf" target="_blank">Learning Representations by Backpropagating Errors</a></li>
         <li><a href="https://collab.hpc.ufs.ac.za/index.php/s/z3cWnWwzJeG9PdE" target="_blank">Derivatives, Backpropagation, and Vectorization</a></li>
-        <li><a href="https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b">Yes you should understand backprop</a></li>
+        <li><a href="https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b" target="_blank">Yes you should understand backprop</a></li>
       </ol>
       </td>
   </tr>
 
   <tr>
-    <td>Thu Jan 23</td>
-    <td>The probability of a sentence? Recurrent Neural Networks and Language Models
+    <td>9</td>
+    <td>The probability of a sentence? Recurrent Neural Networks (RNN) and Language Models
       <br>
       [<a href="https://collab.hpc.ufs.ac.za/index.php/s/idq5ysBow5Hw8zT" target="_blank">slides</a>]
-      <br>
       [<a href="https://collab.hpc.ufs.ac.za/index.php/s/9Tc2y2YHdAHK4PY" target="_blank">notes</a>]
     </td>
-
     <td>
       Suggested Readings:
       <ol>
-        <li><a href="https://web.stanford.edu/~jurafsky/slp3/3.pdf">N-gram Language Models</a> (textbook chapter)</li>
-        <li><a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">The Unreasonable Effectiveness of Recurrent Neural Networks</a> (blog post overview)</li>
-        <!-- <li><a href="http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/">Recurrent Neural Networks Tutorial</a> (practical guide)</li> -->
-        <li><a href="http://www.deeplearningbook.org/contents/rnn.html">Sequence Modeling: Recurrent and Recursive Neural Nets</a> (Sections 10.1 and 10.2)</li>
-	<li><a href="http://norvig.com/chomsky.html">On Chomsky and the Two Cultures of Statistical Learning</a>
+        <li><a href="https://web.stanford.edu/~jurafsky/slp3/3.pdf" target="_blank">N-gram Language Models</a> (textbook chapter)</li>
+        <li><a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/" target="_blank">The Unreasonable Effectiveness of Recurrent Neural Networks</a> (blog post overview)</li>
+        <li><a href="http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/" target="_blank">Recurrent Neural Networks Tutorial</a> (practical guide)</li> -->
+        <li><a href="http://www.deeplearningbook.org/contents/rnn.html" target="_blank">Sequence Modeling: Recurrent and Recursive Neural Nets</a> (Sections 10.1 and 10.2)</li>
+		<li><a href="http://norvig.com/chomsky.html" target="_blank">On Chomsky and the Two Cultures of Statistical Learning</a>
+      </ol>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>10</td>
+    <td>Vanishing Gradients and Fancy RNNs
+      <br>
+      [<a href="https://collab.hpc.ufs.ac.za/index.php/s/2ftA8TAgs4mmnDx" target="_blank">slides</a>]
+      [<a href="https://collab.hpc.ufs.ac.za/index.php/s/9Tc2y2YHdAHK4PY" target="_blank">notes</a>]
+    </td>
+    <td>
+      Suggested Readings:
+      <ol>
+        <li><a href="http://www.deeplearningbook.org/contents/rnn.html" target="_blank">Sequence Modeling: Recurrent and Recursive Neural Nets</a> (Sections 10.3, 10.5, 10.7-10.12)</li>
+        <li><a href="http://ai.dinfo.unifi.it/paolo//ps/tnn-94-gradient.pdf" target="_blank">Learning long-term dependencies with gradient descent is difficult</a> (one of the original vanishing gradient papers)</li>
+        <li><a href="https://arxiv.org/pdf/1211.5063.pdf" target="_blank">On the difficulty of training Recurrent Neural Networks</a> (proof of vanishing gradient problem)</li>
+        <li><a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">Understanding LSTM Networks</a> (blog post overview)</li>
       </ol>
     </td>
   </tr>
@@ -366,27 +381,7 @@ The following courses and learning material I consider important theoretical bac
 
 
 
-  <tr>
-    <td>Tue Jan 28</td>
-    <td>Vanishing Gradients and Fancy RNNs
-      <br>
-      [<a href="slides/cs224n-2020-lecture07-fancy-rnn.pdf">slides</a>]
-      [<a href="https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1420d65f-bf04-46b2-a8af-ab25012bdb27">video</a>]
-      <br>
-		  [<a href="readings/cs224n-2019-notes05-LM_RNN.pdf">notes (lectures 6 and 7)</a>]
-    </td>
-    <td>
-      Suggested Readings:
-      <ol>
-        <li><a href="http://www.deeplearningbook.org/contents/rnn.html">Sequence Modeling: Recurrent and Recursive Neural Nets</a> (Sections 10.3, 10.5, 10.7-10.12)</li>
-        <li><a href="http://ai.dinfo.unifi.it/paolo//ps/tnn-94-gradient.pdf">Learning long-term dependencies with gradient descent is difficult</a> (one of the original vanishing gradient papers)</li>
-        <li><a href="https://arxiv.org/pdf/1211.5063.pdf">On the difficulty of training Recurrent Neural Networks</a> (proof of vanishing gradient problem)</li>
-        <li><a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/lectures/vanishing_grad_example.html">Vanishing Gradients Jupyter Notebook</a> (demo for feedforward networks)</li>
-        <li><a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTM Networks</a> (blog post overview)</li>
-        <!-- <li><a href="https://arxiv.org/pdf/1504.00941.pdf">A simple way to initialize recurrent networks of rectified linear units</a></li> -->
-      </ol>
-    </td>
-  </tr>
+
 
   <tr>
     <td>Thu Jan 30</td>
