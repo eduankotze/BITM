@@ -53,8 +53,7 @@
               <li>Youtube (free) - Learn Python in 45 minutes! <a href="https://collab.hpc.ufs.ac.za/index.php/s/cKFTSdtLwnDXyKo" target="_blank">YouTube [74.7MB]</a></li>
               <li>Kaggle introduction to Python (very good): <a href="https://www.kaggle.com/learn/python" target="_blank">Kaggle - Python</a> - Good introduction if you are not familiar with programming.</li>		
 			  <li>Google introduction to Python (excellent): <a href="https://developers.google.com/edu/python" target="_blank">Google’s Python Class</a> - If you know how to program but are not proficient in Python, I would recommend going through <b>Google’s Python Class</b> for people who already know how to code, taught by Nick Parlante.</li>	
-          </p></ul>
-          
+          </p></ul>   
           <p><u>Useful Python Resources:</u></p>
           <ul><p>
               <li>Chris Albon. Python Scripts for Machine Learning and NLP: <a href="https://chrisalbon.com/#machine_learning" target="_blank">https://chrisalbon.com/#machine_learning</a></li>
@@ -64,9 +63,7 @@
               <li>NLTK: <a href="https://www.nltk.org/" target="_blank">https://www.nltk.org/</a> - Natural Langauge Toolkit (Bird,2009)</li>
 			  <li>Gensim: <a href="https://pypi.org/project/gensim/" target="_blank">https://pypi.org/project/gensim/</a> - Gensim [library for topic modelling, document indexing and similarity retrieval with large corpora]:</li>
 			  <li>scikit-learn: <a href="https://scikit-learn.org/stable/" target="_blank">https://scikit-learn.org/stable/</a></li>
-
-          </p></ul>
-		  
+          </p></ul>		  
           <p><u>Useful Keras (Python) Resources:</u></p>
           <ul><p>
 		      <li>Keras introduction: <a href="https://chrisalbon.com/" target="_blank">https://chrisalbon.com/</a> (scroll down for the Keras notebooks)</li>
@@ -74,8 +71,7 @@
               <li>Keras Home Page: <a href="https://keras.io/examples/" target="_blank">https://keras.io/examples/</a> (examples by Chollet himself)</li>				  
               <li>Keras Github: <a href="https://github.com/keras-team/keras/tree/master/examples" target="_blank">https://github.com/keras-team/keras/tree/master/examples</a> (these are very useful examples)</li>
           </p></ul>		  
-      </li>
-      
+      </li>      
       <li><b>Calculus, Linear Algebra</b>
           <p>You should be comfortable taking (multivariable) derivatives and understanding matrix/vector notation and operations.</p>
       </li>
