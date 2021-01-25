@@ -1,6 +1,9 @@
 # Natural Language Processing UFS Research Group
 This is an online repository for articles and resources related to UFS-NLP Research Group.
 
+## If you are new to NLP or machine learning, please visit a new resource page to help you learn:
+https://htmlpreview.github.io/?https://github.com/eduankotze/NLP/blob/master/index.html
+
 Principal Investigators
 * Prof Eduan Kotzé
 
