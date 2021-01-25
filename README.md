@@ -11,8 +11,10 @@ Research Fellows
 * [Dr Burgert Senekal](https://scholar.google.com/citations?user=UD1iHp4AAAAJ&hl=en)
 * [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
 
-Dr Aliyu Olubunmi (Postdoctoral student)
+Postdoctoral students
+* Dr Aliyu Olubunmi
 
+Postgraduate students
 * Jaco Marais (PhD student) - Automated Event Extraction from Social Media
 * Janet Agunbiade (PhD student) - Conversational Agents
 * Francois Marais (PhD student) - NLP in Finance/Conversational Agents
