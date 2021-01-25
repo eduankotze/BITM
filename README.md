@@ -8,8 +8,8 @@ Principal Investigators
 * [Prof Eduan Kotzé](https://www.ufs.ac.za/natagri/departments-and-divisions/computer-science-and-informatics-university-of-the-free-state-ufs-home/general/staff?pid=AuSiq3Lp4v0%3d)
 
 Research Fellows
-* Dr Burgert Senekal
-* Dr Femi Oriola
+* [Dr Burgert Senekal](https://scholar.google.com/citations?user=UD1iHp4AAAAJ&hl=en)
+* [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
 
 Dr Aliyu Olubunmi (Postdoctoral student)
 
