@@ -12,7 +12,7 @@ Research Fellows
 * [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
 
 Postdoctoral students
-* Dr Aliyu Olubunmi
+* Dr Aliyu Olubunmi (Feb 2021- Feb 2023)
 
 Postgraduate students
 * Jaco Marais (PhD student) - Automated Event Extraction from Social Media
