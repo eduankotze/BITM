@@ -22,6 +22,9 @@ Postgraduate students
 * Molise Makafane (MSc student) - Automatic Detection of Cyberbullying
 * Tebello Lebesa (MSc student) - Emotion Detection
 
+Completed Theses and Dissertations
+* Ian van der Linde (2020) - [A comparison of sentiment analysis techniques in a parallel and distributed NoSQL environment](https://scholar.ufs.ac.za/handle/11660/10863)
+
 ## Table of Contents
 
 <details>
