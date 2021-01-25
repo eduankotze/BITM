@@ -5,7 +5,7 @@ Natural language processing (NLP) is a subfield of linguistics, computer science
 https://en.wikipedia.org/wiki/Natural_language_processing
 
 Principal Investigators
-* Prof Eduan Kotzé
+* [Prof Eduan Kotzé](https://www.ufs.ac.za/natagri/departments-and-divisions/computer-science-and-informatics-university-of-the-free-state-ufs-home/general/staff?pid=AuSiq3Lp4v0%3d)
 
 Research Fellows
 * Dr Burgert Senekal
