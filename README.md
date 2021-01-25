@@ -32,6 +32,7 @@ Dr Aliyu Olubunmi (Postdoctoral student)
 + <details>
   <summary>2020</summary>
  
+  + [TD-SA - Not just a language with white faces: Analysing #taalmonument on Instagram using machine learning](https://td-sa.net/index.php/td/article/view/871)
   + [SACJ - Improved semi-supervised learning technique for automatic detection of South African abusive language on Twitter](https://collab.hpc.ufs.ac.za/index.php/s/8rHdeNAARTjEbLj)
   + [SAJS - Automatic classification of social media reports on violent incidents in South Africa using machine learning](https://collab.hpc.ufs.ac.za/index.php/s/wk5TxaDTqPGxTLk)
   + [Prasa/RobTech - Exploring the Classification of Security Events using Sparse and Dense Representation of Text](https://collab.hpc.ufs.ac.za/index.php/s/y6XKLLMK9Mtf6Mw)
@@ -53,7 +54,7 @@ Dr Aliyu Olubunmi (Postdoctoral student)
 + <details>
   <summary>2018</summary>
  
-  + [JTRSA - Employing sentiment analysis for gauging perceptions of minorities in multicultural societies: An analysis of Twitter feeds on the Afrikaner community of Orania in South Africa](https://td-sa.net/index.php/td/article/view/564/883)
+  + [TD-SA - Employing sentiment analysis for gauging perceptions of minorities in multicultural societies: An analysis of Twitter feeds on the Afrikaner community of Orania in South Africa](https://td-sa.net/index.php/td/article/view/564/883)
   + [CLiPS - Multilingual Cross-domain Perspectives on Online Hate Speech](https://arxiv.org/ftp/arxiv/papers/1809/1809.03944.pdf)
   + [JNGS - Design and Evaluation of an Artefact for Real-Time Twitter Sentiment Analysis](https://journals.co.za/content/journal/10520/EJC-151bd3ce3e?TRACK=RSS)
     
