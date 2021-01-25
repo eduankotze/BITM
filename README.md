@@ -32,10 +32,10 @@ Dr Aliyu Olubunmi (Postdoctoral student)
 + <details>
   <summary>2020</summary>
  
-  + [SACJ - Improved semi-supervised learning technique for automatic detection of South African abusive language on Twitter](https://collab.hpc.ufs.ac.za/index.php/s/8rHdeNAARTjEbLj){:target="_blank"}
-  + [SAJS - Automatic classification of social media reports on violent incidents in South Africa using machine learning](https://collab.hpc.ufs.ac.za/index.php/s/wk5TxaDTqPGxTLk){:target="_blank"}
-  + [Prasa/RobTech - Exploring the Classification of Security Events using Sparse and Dense Representation of Text](https://collab.hpc.ufs.ac.za/index.php/s/y6XKLLMK9Mtf6Mw){:target="_blank"}
-  + [IEEE Access - Evaluating Machine Learning Techniques for Detecting Offensive and Hate Speech in South African Tweets](https://collab.hpc.ufs.ac.za/index.php/s/jwEMDFzzi2TRpHQ){:target="_blank"}
+  + [SACJ - Improved semi-supervised learning technique for automatic detection of South African abusive language on Twitter](https://collab.hpc.ufs.ac.za/index.php/s/8rHdeNAARTjEbLj)
+  + [SAJS - Automatic classification of social media reports on violent incidents in South Africa using machine learning](https://collab.hpc.ufs.ac.za/index.php/s/wk5TxaDTqPGxTLk)
+  + [Prasa/RobTech - Exploring the Classification of Security Events using Sparse and Dense Representation of Text](https://collab.hpc.ufs.ac.za/index.php/s/y6XKLLMK9Mtf6Mw)
+  + [IEEE Access - Evaluating Machine Learning Techniques for Detecting Offensive and Hate Speech in South African Tweets](https://collab.hpc.ufs.ac.za/index.php/s/jwEMDFzzi2TRpHQ)
 
   </details> 
 
@@ -48,6 +48,17 @@ Dr Aliyu Olubunmi (Postdoctoral student)
   + [SATNT - Open Source Intelligence (OSINT) for security purposes: Developing a data analysis pipeline to analyse relevant WhatsApp messages {Afrikaans paper}](https://collab.hpc.ufs.ac.za/index.php/s/GQFrdezF7x59B7P)
 
   </details> 
+
+
++ <details>
+  <summary>2018</summary>
+ 
+    [JTRSA - Employing sentiment analysis for gauging perceptions of minorities in multicultural societies: An analysis of Twitter feeds on the Afrikaner community of Orania in South Africa](https://td-sa.net/index.php/td/article/view/564/883)
+    [CLiPS - Multilingual Cross-domain Perspectives on Online Hate Speech](https://arxiv.org/ftp/arxiv/papers/1809/1809.03944.pdf)
+    [JNGS - Design and Evaluation of an Artefact for Real-Time Twitter Sentiment Analysis](https://journals.co.za/content/journal/10520/EJC-151bd3ce3e?TRACK=RSS)
+    
+  </details> 
+  
 </details>
 
 [comment]: # (##############################################################################################)
