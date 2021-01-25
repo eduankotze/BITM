@@ -1,8 +1,8 @@
 # Natural Language Processing UFS Research Group
 This is an online repository for articles and resources related to UFS-NLP Research Group.
 
-## If you are new to NLP or machine learning, please visit a new resource page to help you learn:
-https://htmlpreview.github.io/?https://github.com/eduankotze/NLP/blob/master/index.html
+Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
+https://en.wikipedia.org/wiki/Natural_language_processing
 
 Principal Investigators
 * Prof Eduan Kotzé
