@@ -44,6 +44,17 @@ Dr Aliyu Olubunmi (Postdoctoral student)
   <summary>2019</summary>
  
   Resources about the fundamental/background knowledge and overviews
+  
+      [FAIR 2019] Automatic detection of abusive South African tweets using a semi-supervised learning approach: https://collab.hpc.ufs.ac.za/index.php/s/dSB3ipXXBikqS8f
+
+    [ISCMI 2019] Automatic Detection of Toxic South African Tweets Using Support Vector Machines with N-Gram Features: https://collab.hpc.ufs.ac.za/index.php/s/oX8kb2Cak9qLbMb
+
+    [African Security Review] Open source intelligence (OSINT) for conflict monitoring in contemporary South Africa: Challenges and opportunities in a big data context. https://collab.hpc.ufs.ac.za/index.php/s/PCJX7iwnX7tLJxj
+
+    [SATNT 2019] Open Source Intelligence (OSINT) for security purposes: Developing a data analysis pipeline to analyse relevant WhatsApp messages [Afrikaans paper]: https://collab.hpc.ufs.ac.za/index.php/s/GQFrdezF7x59B7P
+
+
+
   + [SACJ - Improved semi-supervised learning technique for automatic detection of South African abusive language on Twitter](https://collab.hpc.ufs.ac.za/index.php/s/8rHdeNAARTjEbLj)
   + [SAJS - Automatic classification of social media reports on violent incidents in South Africa using machine learning](https://collab.hpc.ufs.ac.za/index.php/s/wk5TxaDTqPGxTLk)
   + [Prasa/RobTech - Exploring the Classification of Security Events using Sparse and Dense Representation of Text](https://collab.hpc.ufs.ac.za/index.php/s/y6XKLLMK9Mtf6Mw)
