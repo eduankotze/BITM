@@ -53,9 +53,9 @@ Dr Aliyu Olubunmi (Postdoctoral student)
 + <details>
   <summary>2018</summary>
  
-    [JTRSA - Employing sentiment analysis for gauging perceptions of minorities in multicultural societies: An analysis of Twitter feeds on the Afrikaner community of Orania in South Africa](https://td-sa.net/index.php/td/article/view/564/883)
-    [CLiPS - Multilingual Cross-domain Perspectives on Online Hate Speech](https://arxiv.org/ftp/arxiv/papers/1809/1809.03944.pdf)
-    [JNGS - Design and Evaluation of an Artefact for Real-Time Twitter Sentiment Analysis](https://journals.co.za/content/journal/10520/EJC-151bd3ce3e?TRACK=RSS)
+  + [JTRSA - Employing sentiment analysis for gauging perceptions of minorities in multicultural societies: An analysis of Twitter feeds on the Afrikaner community of Orania in South Africa](https://td-sa.net/index.php/td/article/view/564/883)
+  + [CLiPS - Multilingual Cross-domain Perspectives on Online Hate Speech](https://arxiv.org/ftp/arxiv/papers/1809/1809.03944.pdf)
+  + [JNGS - Design and Evaluation of an Artefact for Real-Time Twitter Sentiment Analysis](https://journals.co.za/content/journal/10520/EJC-151bd3ce3e?TRACK=RSS)
     
   </details> 
   
