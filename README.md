@@ -32,10 +32,10 @@ Dr Aliyu Olubunmi (Postdoctoral student)
 + <details>
   <summary>2020</summary>
  
-  + [SACJ - Improved semi-supervised learning technique for automatic detection of South African abusive language on Twitter](https://collab.hpc.ufs.ac.za/index.php/s/8rHdeNAARTjEbLj)
-  + [SAJS - Automatic classification of social media reports on violent incidents in South Africa using machine learning](https://collab.hpc.ufs.ac.za/index.php/s/wk5TxaDTqPGxTLk)
-  + [Prasa/RobTech - Exploring the Classification of Security Events using Sparse and Dense Representation of Text](https://collab.hpc.ufs.ac.za/index.php/s/y6XKLLMK9Mtf6Mw)
-  + [IEEE Access - Evaluating Machine Learning Techniques for Detecting Offensive and Hate Speech in South African Tweets](https://collab.hpc.ufs.ac.za/index.php/s/jwEMDFzzi2TRpHQ)
+  + [SACJ - Improved semi-supervised learning technique for automatic detection of South African abusive language on Twitter](https://collab.hpc.ufs.ac.za/index.php/s/8rHdeNAARTjEbLj){:target="_blank"}
+  + [SAJS - Automatic classification of social media reports on violent incidents in South Africa using machine learning](https://collab.hpc.ufs.ac.za/index.php/s/wk5TxaDTqPGxTLk){:target="_blank"}
+  + [Prasa/RobTech - Exploring the Classification of Security Events using Sparse and Dense Representation of Text](https://collab.hpc.ufs.ac.za/index.php/s/y6XKLLMK9Mtf6Mw){:target="_blank"}
+  + [IEEE Access - Evaluating Machine Learning Techniques for Detecting Offensive and Hate Speech in South African Tweets](https://collab.hpc.ufs.ac.za/index.php/s/jwEMDFzzi2TRpHQ){:target="_blank"}
 
   </details> 
 
