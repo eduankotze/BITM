@@ -1,8 +1,8 @@
 # Natural Language Processing UFS Research Group
 This is an online repository for articles and resources related to UFS-NLP Research Group.
 
-Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
-https://en.wikipedia.org/wiki/Natural_language_processing
+[Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
+
 
 Principal Investigators
 * [Prof Eduan Kotzé](https://www.ufs.ac.za/natagri/departments-and-divisions/computer-science-and-informatics-university-of-the-free-state-ufs-home/general/staff?pid=AuSiq3Lp4v0%3d)
