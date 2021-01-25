@@ -34,10 +34,9 @@ Dr Aliyu Olubunmi (Postdoctoral student)
  
   Resources about the fundamental/background knowledge and overviews
   + [SACJ 2020 Improved semi-supervised learning technique for automatic detection of South African abusive language on Twitter](https://collab.hpc.ufs.ac.za/index.php/s/8rHdeNAARTjEbLj)
-  + [2017 - Liu - How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation](https://arxiv.org/abs/1603.08023)
-  + [2017 - Novikova- Why We Need New Evaluation Metrics for NLG](https://arxiv.org/abs/1707.06875)
-  + [2019 - See - What makes a good conversation? How controllable attributes affect human judgments](https://www.aclweb.org/anthology/N19-1170/) 
-  + [2019 - Dathathri - Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164)
+  + [SAJS 2020 Automatic classification of social media reports on violent incidents in South Africa using machine learning](https://collab.hpc.ufs.ac.za/index.php/s/wk5TxaDTqPGxTLk)
+  + [Prasa/RobTech 2020 Exploring the Classification of Security Events using Sparse and Dense Representation of Text](https://collab.hpc.ufs.ac.za/index.php/s/y6XKLLMK9Mtf6Mw)
+
   </details> 
   
 </details>
