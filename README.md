@@ -12,6 +12,8 @@ The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/T
 
 ****
 
+## Research Team
+
 Principal Investigators
 * [Prof Eduan Kotzé](https://www.ufs.ac.za/natagri/departments-and-divisions/computer-science-and-informatics-university-of-the-free-state-ufs-home/general/staff?pid=AuSiq3Lp4v0%3d)
 
@@ -32,6 +34,8 @@ Postgraduate students
 
 Completed Theses and Dissertations
 * Ian van der Linde (2020) - [A comparison of sentiment analysis techniques in a parallel and distributed NoSQL environment](https://scholar.ufs.ac.za/handle/11660/10863)
+
+****
 
 ## Table of Contents
 
