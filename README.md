@@ -12,7 +12,7 @@ The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/T
 
 ## Registrations for 2021
 
-New MSc and PhD students will only be able to register from 8 February 2021. REturning MSc and PhD students will be informed when they can register for 2021.
+New MSc and PhD students will only be able to register from 8 February 2021. Returning MSc and PhD students will be informed when they can register for 2021.
 
 ## Research Team
 
