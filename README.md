@@ -8,7 +8,7 @@ This research focus is on Digital Text Analysis where we combine natural languag
 
 [Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) [Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
 
-[Data Science](https://en.wikipedia.org/wiki/Data_science) is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, machine learning and big data. 
+[Data Science](https://en.wikipedia.org/wiki/Data_science) is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to [data mining](https://en.wikipedia.org/wiki/Data_mining), [machine learning](https://en.wikipedia.org/wiki/Machine_learning) and [big data](https://en.wikipedia.org/wiki/Big_data).
 
 
 Principal Investigators
