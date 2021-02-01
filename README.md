@@ -10,6 +10,7 @@ The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/T
 
 [Data Science](https://en.wikipedia.org/wiki/Data_science) is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to [data mining](https://en.wikipedia.org/wiki/Data_mining), [machine learning](https://en.wikipedia.org/wiki/Machine_learning) and [big data](https://en.wikipedia.org/wiki/Big_data).
 
+****
 
 Principal Investigators
 * [Prof Eduan Kotzé](https://www.ufs.ac.za/natagri/departments-and-divisions/computer-science-and-informatics-university-of-the-free-state-ufs-home/general/staff?pid=AuSiq3Lp4v0%3d)
