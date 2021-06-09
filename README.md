@@ -12,7 +12,7 @@ The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/T
 
 ## CSIA7915
 
-MSc and PhD students should familiarize themselves with the content of state-of-the-art NLP. The module [CSIA7915](http://htmlpreview.github.com/?https://github.com/eduankotze/NLP/CSIA7915/index.html) is highly recommended.
+MSc and PhD students should familiarize themselves with the content of state-of-the-art NLP. The module [CSIA7915](http://htmlpreview.github.com/?https://github.com/eduankotze/NLP/blob/master/CSIA7915/index.html) is highly recommended.
 
 ## Research Team
 
