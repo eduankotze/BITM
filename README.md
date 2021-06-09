@@ -3,7 +3,7 @@ This is an online repository for articles and resources related to the UFS-NLP R
 
 The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/Text_mining) where we combine **natural language processing (NLP)** (practical applications on textual data), **data science** (data analysis and practical data visualization from large document collections) as well as **machine learning and deep learning**. These applications are mainly centered around the following topics of interest:
 *	general text / document classification
-*	hate speech detection / cyberbullying detection / stylometry
+*	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection) / [cyberbullying detection](https://link.springer.com/article/10.1007/s10579-020-09509-1) / stylometry
 *	conversational agents
 
 [Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
