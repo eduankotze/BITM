@@ -10,9 +10,9 @@ The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/T
 
 [Data Science](https://en.wikipedia.org/wiki/Data_science) is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to [data mining](https://en.wikipedia.org/wiki/Data_mining), [machine learning](https://en.wikipedia.org/wiki/Machine_learning) and [big data](https://en.wikipedia.org/wiki/Big_data).
 
-## Registrations for 2021
+## CSIA7915
 
-New MSc and PhD students will only be able to register from 8 February 2021. Returning MSc and PhD students will be informed when they can register for 2021.
+MSc and PhD students should familiarize themselves with the content of state-of-the-art NLP. The module [CSIA7915](http://htmlpreview.github.com/?https://github.com/eduankotze/NLP/CSIA7915/index.html) is highly recommended.
 
 ## Research Team
 
