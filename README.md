@@ -13,8 +13,7 @@ The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/T
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ## CSIA7915 (Natural Language Processing)
-The module [CSIA7915](http://htmlpreview.github.io/?https://github.com/eduankotze/NLP/blob/master/CSIA7915/index.html){:target="_blank"} was introduced and is highly recommended 
-for MSc and PhD students who want to familiarise themselves with the content of state-of-the-art NLP.
+The module <a href="http://htmlpreview.github.io/?https://github.com/eduankotze/NLP/blob/master/CSIA7915/index.html/" target="_blank">CSIA7915!</a> was introduced and is highly recommended for MSc and PhD students who want to familiarise themselves with the content of state-of-the-art NLP.
 
 ## Research Team
 
