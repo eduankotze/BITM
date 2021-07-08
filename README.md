@@ -29,6 +29,8 @@ Postdoctoral students
 Postgraduate students
 * Jaco Marais (PhD student) - Automated Event Extraction from Social Media
 * Janet Agunbiade (PhD student) - Conversational Agents
+* Gavin Dollman (PhD student) - Exploring Predictive Machine and Deep Learning Models for Prospecting Fossil Sites within the Elliot Formation of South Africa
+* Asemahle Ndamase (MSc student) - Pre-trained Language Models / Abusive Language Detection
 * Palesa Mosehle (MSc student) - Text Classification/Sentiment Analysis & Emotion Detection
 * Molise Makafane (MSc student) - Automatic Detection of Cyberbullying
 * Tebello Lebesa (MSc student) - Emotion Detection
