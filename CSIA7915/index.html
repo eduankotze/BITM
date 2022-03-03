@@ -585,31 +585,7 @@ The learning material I consider important theoretical background if you want to
       [<a href="http://web.stanford.edu/class/cs224n/slides/" target="_blank">slides</a>]
     <td>
 	
-	  Background:
-	  <ol>
-        <li><b>ELMo</b> (Peters et al., 2018): In traditional word embeddings such as Word2Vec (Mikolov et al., 2013), GloVe (Pennington et al., 2014), and FastText (Mikolov et al., 2018), 
-		each word in the vocabulary is mapped to a fixed vector, regardless of its context. 
-		The core idea of ELMo is to address this weakness by using the context in which a word appears to construct the embedding.
-		In practice, ELMo implements this idea by training a two-layer bidirectional LSTM for language modeling on a large-scale corpus. 
-		This pretrained bi-LSTM can then be used as the embedding layer for any model which takes text as input. 
-		The remaining layers of the new model are trained for the new task.
-		When it was released in November 2017, ELMo improved the state of the art on six different NLP benchmarks.  
-		This established the utility of pretrained contextual embeddings (PCE), but many architectural advances have happened since November 2017. 
-		As such, ELMo is unlikely to compete with more recent PCE methods such as BERT.
-		</li>
-		<li><b>BERT</b> (Devlin et al., 2018): Transformers (Vaswani et al., 2017) have in some cases supplanted RNNs as the dominant model family in deep learning for NLP. 
-		Therefore one might expect that ELMo’s pretrained RNNs would be outperformed by pretrained Transformers.  
-		Indeed, BERT showed exactly that by training deep Transformers on a carefully designed bidirectional language modeling task, 
-		BERT achieves state-of-the-art results on a wide variety of NLP benchmark. <b>BERT</b> stands for Bidirectional Encoder Representations from Transformers.
-		</li>
-		<li><b>ALBERT</b> (Lan et al., 2020): More recently, ALBERT established new state-of-the-art results on various benchmarks while having fewer parameters compared to BERT-large. 
-		Their key idea is to allocatethe model’s capacity more efficiently and to share parameters across the layers. 
-		Like BERT, the authors released an open-source TensorFlow implementation and pretrained weights.
-		<b>ALBERT</b> stands for A Lite BERT.
-		
-      </ol>
-	  
-	  Suggested readings:
+      Suggested readings:
       <ol>
         <li>Jurafsky and Martin (3rd): <a href="https://web.stanford.edu/~jurafsky/slp3/10.pdf" target="_blank">Chapter 10 - Encoder-Decoder Models</a> (textbook chapter)</li>
         <li>Jurafsky and Martin (3rd): <a href="https://web.stanford.edu/~jurafsky/slp3/11.pdf" target="_blank">Chapter 11 - Transfer Learning with Pre-trained Language Models and Contextual Embeddings</a> (textbook chapter)</li>
