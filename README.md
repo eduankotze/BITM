@@ -24,15 +24,13 @@ Research Fellows
 * [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
 
 Postdoctoral students
-* Dr Aliyu Olubunmi (Feb 2021- Feb 2023)
+* Dr Aliyu Olubunmi (Feb 2021- Feb 2023) - Text Generation for Conversational Agents
 
 Postgraduate students
-* Jaco Marais (PhD student) - Automated Event Extraction from Social Media
-* Janet Agunbiade (PhD student) - Conversational Agents
+* Jaco Marais (PhD student) - Automated Event Extraction from Social Media Events
+* Janet Agunbiade (PhD student) - Conversational Agents in the Yuroba Langauge
 * Gavin Dollman (PhD student) - Exploring Predictive Machine and Deep Learning Models for Prospecting Fossil Sites within the Elliot Formation of South Africa
-* Asemahle Ndamase (MSc student) - Abusive Language Detection
-* Palesa Mosehle (MSc student) - Text Classification/Sentiment Analysis & Emotion Detection
-* Molise Makafane (MSc student) - Automatic Detection of Cyberbullying
+* Palesa Mosehle (MSc student) - Intent Classification in Conversationl Agents in SeSotho
 
 Completed Theses and Dissertations
 * Ian van der Linde (2020) - [A comparison of sentiment analysis techniques in a parallel and distributed NoSQL environment](https://scholar.ufs.ac.za/handle/11660/10863)
