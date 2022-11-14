@@ -50,11 +50,7 @@ Completed Theses and Dissertations
 + <details>
   <summary>2020</summary>
  
-  + [TD-SA - Not just a language with white faces: Analysing #taalmonument on Instagram using machine learning](https://td-sa.net/index.php/td/article/view/871)
-  + [SACJ - Improved semi-supervised learning technique for automatic detection of South African abusive language on Twitter](https://collab.hpc.ufs.ac.za/index.php/s/8rHdeNAARTjEbLj)
-  + [SAJS - Automatic classification of social media reports on violent incidents in South Africa using machine learning](https://collab.hpc.ufs.ac.za/index.php/s/wk5TxaDTqPGxTLk)
-  + [Prasa/RobTech - Exploring the Classification of Security Events using Sparse and Dense Representation of Text](https://collab.hpc.ufs.ac.za/index.php/s/y6XKLLMK9Mtf6Mw)
-  + [IEEE Access - Evaluating Machine Learning Techniques for Detecting Offensive and Hate Speech in South African Tweets](https://collab.hpc.ufs.ac.za/index.php/s/jwEMDFzzi2TRpHQ)
+  + [Nomina-Africana - Names and ethnic heritage: a study of ethnic diversity in the company director network on the Johannesburg Stock Exchange](https://journals.co.za/doi/abs/10.2989/NA.2021.35.1.4.1359)
 
   </details> 
  
