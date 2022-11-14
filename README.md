@@ -47,9 +47,6 @@ Completed Theses and Dissertations
 <details open>
 <summary>Articles</summary>
 
- 
- Stacked Language Models for an
-
 + <details>
   <summary>2022</summary>
  
