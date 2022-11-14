@@ -30,7 +30,6 @@ Postgraduate students
 * Jaco Marais (PhD student) - Automated Event Extraction from Social Media Events
 * Janet Agunbiade (PhD student) - Conversational Agents in the Yuroba Langauge
 * Gavin Dollman (PhD student) - Exploring Predictive Machine and Deep Learning Models for Prospecting Fossil Sites within the Elliot Formation of South Africa
-* Palesa Mosehle (MSc student) - Intent Classification for Conversational Agents in SeSotho
 
 Completed Theses and Dissertations
 * Ian van der Linde (2020) - [A comparison of sentiment analysis techniques in a parallel and distributed NoSQL environment](https://scholar.ufs.ac.za/handle/11660/10863)
