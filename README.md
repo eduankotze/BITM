@@ -53,6 +53,7 @@ Completed Theses and Dissertations
 + <details>
   <summary>2022</summary>
  
+  + [Springer - Exploring Neural Embeddings and Transformers for Isolation of Offensive and Hate Speech in South African Social Media Space](https://link.springer.com/chapter/10.1007/978-3-031-10522-7_44)
   + [IST-Africa - Stacked Language Models for an Optimized Next Word Generation](https://ieeexplore.ieee.org/document/9845545)
 
   </details> 
