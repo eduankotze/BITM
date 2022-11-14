@@ -47,8 +47,18 @@ Completed Theses and Dissertations
 <details open>
 <summary>Articles</summary>
 
+ 
+ Stacked Language Models for an
+
 + <details>
-  <summary>2020</summary>
+  <summary>2022</summary>
+ 
+  + [IST-Africa - Stacked Language Models for an Optimized Next Word Generation](https://ieeexplore.ieee.org/document/9845545)
+
+  </details> 
+ 
++ <details>
+  <summary>2021</summary>
  
   + [Nomina-Africana - Names and ethnic heritage: a study of ethnic diversity in the company director network on the Johannesburg Stock Exchange](https://journals.co.za/doi/abs/10.2989/NA.2021.35.1.4.1359)
 
