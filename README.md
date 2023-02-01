@@ -4,7 +4,7 @@ This is an online repository for articles and resources related to the UFS-BITM 
 The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/Text_mining) where we combine **[natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)** (practical applications on textual data), **[data science](https://en.wikipedia.org/wiki/Data_science)** (data analysis and practical data visualization from large document collections) as well as **[machine and deep learning](https://en.wikipedia.org/wiki/Machine_learning)**. These applications are mainly centered around the following topics of interest:
 *	general text / document classification
 *	[sentiment analysis](https://paperswithcode.com/area/natural-language-processing/sentiment-analysis)
-*	[hate speech detection](https://dl.acm.org/doi/10.1145/3232676) / [cyberbullying detection](https://link.springer.com/article/10.1007/s10579-020-09509-1) / [stylometry](https://pan.webis.de/)
+*	[hate speech detection](https://dl.acm.org/doi/10.1145/3232676) / [stylometry](https://pan.webis.de/)
 *	[conversational agents](https://en.wikipedia.org/wiki/Dialogue_system)
 
 [Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
