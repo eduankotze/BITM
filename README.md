@@ -1,5 +1,5 @@
-# Business Intelligence and Text Mining UFS Research Group
-This is an online repository for articles and resources related to the UFS-NLP Research Group.
+# Business Intelligence and Text Mining Research Group
+This is an online repository for articles and resources related to the UFS-BITM Research Group.
 
 The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/Text_mining) where we combine **natural language processing (NLP)** (practical applications on textual data), **data science** (data analysis and practical data visualization from large document collections) as well as **machine and deep learning**. These applications are mainly centered around the following topics of interest:
 *	general text / document classification
