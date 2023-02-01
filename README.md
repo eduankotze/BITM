@@ -45,7 +45,7 @@ Completed Theses and Dissertations
 <details>
 <summary>Modules</summary>
  
- + [CSIA7915 Natural Language Processing - 2021](http://htmlpreview.github.io/?https://github.com/eduankotze/NLP/blob/master/CSIA7915/index.html)
+ + [CSIA7915 Natural Language Processing](http://htmlpreview.github.io/?https://github.com/eduankotze/NLP/blob/master/CSIA7915/index.html)
  
 </details>
 
