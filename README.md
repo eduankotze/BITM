@@ -2,7 +2,7 @@
 This is an online repository for articles and resources related to the UFS-BITM Research Group.
 
 The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/Text_mining) where we combine **[natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)** (practical applications on textual data), **[data science](https://en.wikipedia.org/wiki/Data_science)** (data analysis and practical data visualization from large document collections) as well as **[machine and deep learning](https://en.wikipedia.org/wiki/Machine_learning)**. These applications are mainly centered around the following topics of interest:
-*	[text classification](https://paperswithcode.com/task/text-classification)/ [document classification]([https://en.wikipedia.org/wiki/Document_classification](https://paperswithcode.com/task/document-classification) / [topic modeling](https://paperswithcode.com/task/topic-models)
+*	[text classification](https://paperswithcode.com/task/text-classification) / [document classification](https://paperswithcode.com/task/document-classification) / [topic modeling](https://paperswithcode.com/task/topic-models)
 *	[sentiment analysis](https://paperswithcode.com/area/natural-language-processing/sentiment-analysis)
 *	[hate speech detection](https://dl.acm.org/doi/10.1145/3232676) / [stylometry](https://pan.webis.de/)
 *	[conversational agents](https://en.wikipedia.org/wiki/Dialogue_system)
