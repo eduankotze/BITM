@@ -48,7 +48,14 @@ Completed Theses and Dissertations
  + [CSIA7915 Natural Language Processing - 2021](http://htmlpreview.github.io/?https://github.com/eduankotze/NLP/blob/master/CSIA7915/index.html)
  
 </details>
+
+<details>
+<summary>Books</summary>
  
+ + [Reinventing the Social Scientist and Humanist in the Era of Big Data - 2019](https://library.oapen.org/handle/20.500.12657/59090)
+ 
+</details>
+
 <details open>
 <summary>Articles</summary>
 
