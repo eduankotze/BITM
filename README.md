@@ -52,7 +52,8 @@ Completed Theses and Dissertations
 <details>
 <summary>Books</summary>
  
- + [Reinventing the Social Scientist and Humanist in the Era of Big Data - 2019](https://library.oapen.org/handle/20.500.12657/59090)
+ + [AI in and for Africa: A Humanist Perspective (2023)](https://www.routledge.com/AI-in-and-for-Africa-A-Humanist-Perspective/Brokensha-Kotze-Senekal/p/book/9781032231761)
+ + [Reinventing the Social Scientist and Humanist in the Era of Big Data (2019)](https://library.oapen.org/handle/20.500.12657/59090)
  
 </details>
 
