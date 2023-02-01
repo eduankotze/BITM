@@ -6,6 +6,7 @@ The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/T
 *	[text generation](https://paperswithcode.com/task/text-generation) / [dialogue generation](https://paperswithcode.com/task/dialogue-generation)
 *	[sentiment analysis](https://paperswithcode.com/area/natural-language-processing/sentiment-analysis)
 *	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection) / [abusive language](https://paperswithcode.com/task/abusive-language)
+*	[language modelling](https://paperswithcode.com/task/language-modelling)
 *	[conversational agents](https://paperswithcode.com/task/chatbot)
 
 [Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
