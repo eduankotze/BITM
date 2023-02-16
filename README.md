@@ -16,6 +16,9 @@ As a research group, applications are mainly centered around the following topic
 
 [Data Science](https://en.wikipedia.org/wiki/Data_science) is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to [data mining](https://en.wikipedia.org/wiki/Data_mining), [machine learning](https://en.wikipedia.org/wiki/Machine_learning) and [big data](https://en.wikipedia.org/wiki/Big_data).
 
+## Why our interest in natural language processing?
+I am of the opinion that natural language processing (NLP) or computational linguistics is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in <b>language (mostly text)</b>: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, and now even ChatGPT. In the last decade, deep learning (or neural network) approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering associated with traditional machine learning (i.e. scikit-learn). I believe its important to learn the neccessary skills to implemnet and understanding neural network language models to be relevant in the the information age.
+
 ## CSIA7915 (Natural Language Processing)
 The module [CSIA7915](http://htmlpreview.github.io/?https://github.com/eduankotze/NLP/blob/master/CSIA7915/index.html) was introduced and is highly recommended for newly enrolled MSc and PhD students who want to familiarise themselves with the current state-of-the-art in Text Mining.
 
