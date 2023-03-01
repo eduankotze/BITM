@@ -9,7 +9,7 @@ Sample datasets for baseline experiments:
    * <b>from sklearn.datasets import fetch_20newsgroups</b>
    * See also http://qwone.com/~jason/20Newsgroups/
 3. [IMDB movies reviews dataset](http://ai.stanford.edu/~amaas/data/sentiment/) - This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. Authors provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing.
-4. [Sentiment140 for Academics](http://help.sentiment140.com/for-students) - Sentiment140 was created by Alec Go, Richa Bhayani, and Lei Huang and is a popular dataset, which uses 1,600,000 tweets with emoticons pre-removed.
+4. [Twitter Sentiment140](http://help.sentiment140.com/for-students) - Sentiment140 was created by Alec Go, Richa Bhayani, and Lei Huang and is a popular dataset, which uses 1,600,000 tweets with emoticons pre-removed.
 5. [NLTK-Movie Reviews](https://www.nltk.org/_modules/nltk/corpus/reader/reviews.html) - A small dataset colleced by Bing and Liu, with 2000 reviews. This dataset is great for practicing sentiment classification.
    * <b>from nltk.corpus import movie_reviews</b>
 
