@@ -1,6 +1,6 @@
 Natural Language Processing (NLP) is about (raw) unstructed textual data. List of free/public domain datasets with text data for use in NLP.
 
-1. https://elitedatascience.com/datasets#nlp
+1. https://elitedatascience.com/datasets#nlp - Datasets for Data Science and Machine Learning.
 2. https://github.com/niderhoff/nlp-datasets
 3. https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews - This page contains a collection of datasets that have been collected for research.
 
