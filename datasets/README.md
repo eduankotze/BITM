@@ -2,6 +2,7 @@ Natural Language Processing (NLP) is about (raw) unstructed textual data. List o
 
 1. https://elitedatascience.com/datasets#nlp
 2. https://github.com/niderhoff/nlp-datasets
+3. https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews - This page contains a collection of datasets that have been collected for research.
 
 Sample datasets for baseline experiments:
 1. [Twenty Newsgroups](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html) - The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups.
