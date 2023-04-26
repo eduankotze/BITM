@@ -8,6 +8,8 @@ There are currently [682](https://paperswithcode.com/sota) state-of-the-art task
 As a research group, applications are mainly centered around the following few topics of interest:
 *	[text classification](https://paperswithcode.com/task/text-classification) / [document classification](https://paperswithcode.com/task/document-classification) / [topic modeling](https://paperswithcode.com/task/topic-models)
 *	[few-shot text classification](https://paperswithcode.com/task/few-shot-text-classification) 
+*	[few-shot learning](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api)
+*	[zero-shot classification](https://huggingface.co/tasks/zero-shot-classification)
 *	[sentiment analysis](https://paperswithcode.com/area/natural-language-processing/sentiment-analysis)
 *	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection) / [abusive detection](https://paperswithcode.com/task/abuse-detection) / [abusive language](https://paperswithcode.com/task/abusive-language)
 *	[language modelling](https://paperswithcode.com/task/language-modelling)
