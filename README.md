@@ -3,7 +3,9 @@ This is an online repository for articles and resources related to the UFS-BITM 
 
 The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/Text_mining) where we combine **[natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)** (practical applications on textual data), **[data science](https://en.wikipedia.org/wiki/Data_science)** (data analysis and practical data visualization from large document collections) as well as **[machine and deep learning](https://en.wikipedia.org/wiki/Machine_learning)**. 
 
-As a research group, applications are mainly centered around the following topics of interest:
+There are currently [583](https://paperswithcode.com/area/natural-language-processing) tasks (or topics of interest) for Natural Language Processing research.
+
+As a research group, applications are mainly centered around the following few topics of interest:
 *	[text classification](https://paperswithcode.com/task/text-classification) / [document classification](https://paperswithcode.com/task/document-classification) / [topic modeling](https://paperswithcode.com/task/topic-models)
 *	[text generation](https://paperswithcode.com/task/text-generation) / [dialogue generation](https://paperswithcode.com/task/dialogue-generation)
 *	[sentiment analysis](https://paperswithcode.com/area/natural-language-processing/sentiment-analysis)
