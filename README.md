@@ -7,11 +7,12 @@ There are currently [583](https://paperswithcode.com/area/natural-language-proce
 
 As a research group, applications are mainly centered around the following few topics of interest:
 *	[text classification](https://paperswithcode.com/task/text-classification) / [document classification](https://paperswithcode.com/task/document-classification) / [topic modeling](https://paperswithcode.com/task/topic-models)
-*	[text generation](https://paperswithcode.com/task/text-generation) / [dialogue generation](https://paperswithcode.com/task/dialogue-generation)
+*	[few-shot text classification]([https://paperswithcode.com/task/text-generation](https://paperswithcode.com/task/few-shot-text-classification) 
 *	[sentiment analysis](https://paperswithcode.com/area/natural-language-processing/sentiment-analysis)
 *	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection) / [abusive detection](https://paperswithcode.com/task/abuse-detection) / [abusive language](https://paperswithcode.com/task/abusive-language)
 *	[language modelling](https://paperswithcode.com/task/language-modelling)
 *	[conversational agents / chatbots](https://paperswithcode.com/task/chatbot) [PhD only]
+*	[dialogue generation](https://paperswithcode.com/task/dialogue-generation) [PhD only]
 
 ## What is Natural Language Processing, Data Science and Machine Learning?
 [Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
