@@ -7,7 +7,7 @@ As a research group, applications are mainly centered around the following topic
 *	[text classification](https://paperswithcode.com/task/text-classification) / [document classification](https://paperswithcode.com/task/document-classification) / [topic modeling](https://paperswithcode.com/task/topic-models)
 *	[text generation](https://paperswithcode.com/task/text-generation) / [dialogue generation](https://paperswithcode.com/task/dialogue-generation)
 *	[sentiment analysis](https://paperswithcode.com/area/natural-language-processing/sentiment-analysis)
-*	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection) / [abusive language](https://paperswithcode.com/task/abusive-language)
+*	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection) / [abusive detection](https://paperswithcode.com/task/abuse-detection) / [abusive language](https://paperswithcode.com/task/abusive-language)
 *	[language modelling](https://paperswithcode.com/task/language-modelling)
 *	[conversational agents / chatbots](https://paperswithcode.com/task/chatbot) [PhD only]
 
