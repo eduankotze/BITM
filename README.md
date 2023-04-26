@@ -11,7 +11,7 @@ As a research group, applications are mainly centered around the following few t
 *	[sentiment analysis](https://paperswithcode.com/area/natural-language-processing/sentiment-analysis)
 *	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection) / [abusive detection](https://paperswithcode.com/task/abuse-detection) / [abusive language](https://paperswithcode.com/task/abusive-language)
 *	[language modelling](https://paperswithcode.com/task/language-modelling)
-*	[conversational agents / chatbots](https://paperswithcode.com/task/chatbot) [PhD only]
+*	[chatbot (or conversational AI)](https://paperswithcode.com/task/chatbot) [PhD only]
 *	[dialogue generation](https://paperswithcode.com/task/dialogue-generation) [PhD only]
 
 ## What is Natural Language Processing, Data Science and Machine Learning?
