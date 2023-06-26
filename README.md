@@ -26,7 +26,7 @@ If you want to learn more what Natural Language Processing entails, then I highl
 We are of the opinion that natural language processing (NLP) or computational linguistics is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in <b>language (mostly text)</b>: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, and now even ChatGPT. In the last decade, deep learning (or neural network) approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering associated with traditional machine learning (i.e. scikit-learn). It is important to learn the neccessary skills to design, implement and understand neural network language models to be relevant in the information age. 
 
 ## CSIA7915 (Natural Language Processing)
-The module [CSIA7915](http://htmlpreview.github.io/?https://github.com/eduankotze/NLP/blob/master/CSIA7915/index.html) was introduced and is highly recommended for newly enrolled MSc and PhD students who want to familiarise themselves with the current state-of-the-art in Natural Language Processing.
+The module CSIA7915 was introduced and is highly recommended for newly enrolled MSc and PhD students who want to familiarise themselves with the current state-of-the-art in Natural Language Processing.
 
 ## Research Team
 
