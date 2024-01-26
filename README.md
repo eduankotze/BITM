@@ -14,6 +14,19 @@ As a research group, applications are mainly centered around the following few t
 *	[chatbot (or conversational AI)](https://paperswithcode.com/task/chatbot) [PhD only]
 
 
+## How is Business Intelligence related to Text Mining?
+Business intelligence (BI) and text mining are two distinct but interconnected fields that can complement each other in various ways. Let's explore their relationship with some examples:
+
+Data Extraction and Analysis:
+* BI involves the collection, processing, and analysis of structured data, typically from databases, to provide insights into business performance.
+* Text mining, on the other hand, deals with unstructured textual data, extracting valuable information from sources like emails, social media, and documents.
+
+Integration of Unstructured Data:
+* Text mining can contribute to BI by processing and analyzing unstructured data, converting it into a structured format that BI tools can use. This integration allows organizations to gain insights from both structured and unstructured data sources.
+
+Predictive Analytics:
+* Text mining can be used to extract features and patterns from textual data that can contribute to predictive analytics. By combining this with traditional BI data, organizations can make more accurate predictions about future trends and events.
+    
 ## What is Natural Language Processing, Data Science and Machine Learning?
 [Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
 
