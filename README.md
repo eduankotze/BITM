@@ -11,7 +11,7 @@ As a research group, applications are mainly centered around the following few t
 *	[few-shot text classification](https://paperswithcode.com/task/few-shot-text-classification) / [few-shot learning](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api) / [zero-shot classification](https://huggingface.co/tasks/zero-shot-classification)
 *	[large language models (i.e. ChatGPT)](https://paperswithcode.com/task/language-modelling)
 *	[chatbot (or conversational AI)](https://paperswithcode.com/task/chatbot) [PhD only]
-*	[dialogue generation](https://paperswithcode.com/task/dialogue-generation) [PhD only]
+*	[question answering](https://paperswithcode.com/area/natural-language-processing/question-answering) [PhD only]
 
 ## What is Natural Language Processing, Data Science and Machine Learning?
 [Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
