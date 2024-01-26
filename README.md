@@ -26,16 +26,12 @@ Integration of Unstructured Data:
 
 Predictive Analytics:
 * Text mining can be used to extract features and patterns from textual data that can contribute to predictive analytics. By combining this with traditional BI data, organizations can make more accurate predictions about future trends and events.
-    
-## What is Natural Language Processing, Data Science and Machine Learning?
-[Natural language processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. 
 
-[Data Science](https://en.wikipedia.org/wiki/Data_science) is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to [data mining](https://en.wikipedia.org/wiki/Data_mining), [machine learning](https://en.wikipedia.org/wiki/Machine_learning) and [big data](https://en.wikipedia.org/wiki/Big_data).
+## Is Text Mining and Natural Language Processing the same?
+Text mining and natural language processing (NLP) are related fields that deal with processing and analyzing textual data but they have distinct focuses and goals. Text mining is more oriented towards discovering patterns and insights from text, while NLP is concerned with the deeper understanding of language to enable machines to interact with it more intelligently. For example, text mining often involves techniques such as clustering, classification, and association rule mining. While NLP involves tasks such as text summarization, sentiment analysis, machine translation, and language generation. In our research group, we use both fields.
 
-If you want to learn more what Natural Language Processing entails, then I highly recommend ["A Complete Guide to Natural Language Processing"](https://www.deeplearning.ai/resources/natural-language-processing/) by DeepLearning.Ai.
-
-## Why our interest in Natural Language Processing?
-We are of the opinion that natural language processing (NLP) or computational linguistics is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in <b>language (mostly text)</b>: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, and now even ChatGPT. In the last decade, deep learning (or neural network) approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering associated with traditional machine learning (i.e. scikit-learn). It is important to learn the neccessary skills to design, implement and understand neural network language models to be relevant in the information age. 
+## Why our interest in Text Mining and Natural Language Processing?
+T We are of the opinion that these related fields are the most important technologies of the information age. Applications of both are everywhere because people communicate almost everything in <b>language (mostly text)</b>: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, and now even ChatGPT. It is important to learn the neccessary skills to perform text mining and/or natural language processing. 
 
 ## CSIA7915 (Natural Language Processing)
 The module CSIA7915 was introduced and is highly recommended for newly enrolled MSc and PhD students who want to familiarise themselves with the current state-of-the-art in Natural Language Processing.
