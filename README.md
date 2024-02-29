@@ -13,29 +13,6 @@ As a research group, applications are mainly centered around the following few t
 *	[question answering](https://paperswithcode.com/area/natural-language-processing/question-answering)
 *	[chatbot (or conversational AI)](https://paperswithcode.com/task/chatbot) [PhD only]
 
-
-## How is Business Intelligence related to Text Mining?
-Business intelligence (BI) and text mining are two distinct but interconnected fields that can complement each other in various ways. Let's explore their relationship with some examples:
-
-Data Extraction and Analysis:
-* BI involves the collection, processing, and analysis of structured data, typically from databases, to provide insights into business performance.
-* Text mining, on the other hand, deals with unstructured textual data, extracting valuable information from sources like emails, social media, and documents.
-
-Integration of Unstructured Data:
-* Text mining can contribute to BI by processing and analyzing unstructured data, converting it into a structured format that BI tools can use. This integration allows organizations to gain insights from both structured and unstructured data sources.
-
-Predictive Analytics:
-* Text mining can be used to extract features and patterns from textual data that can contribute to predictive analytics. By combining this with traditional BI data, organizations can make more accurate predictions about future trends and events.
-
-## Is Text Mining and Natural Language Processing the same?
-Text mining (or text analytics) and natural language processing (NLP) are related fields that deal with processing and analyzing textual data but they have distinct focuses and goals. Text mining is more oriented towards discovering patterns and insights from text, while NLP is concerned with a deeper understanding of language to enable machines to interact with it more intelligently. For example, NLP is rooted in computational linguistics and involves tasks such as text categorization, language understanding, translation, and language generation. These tasks utilize either rule-based or machine/deep learning systems which is a subfield of AI. Text mining applications “extract" information and insight from text using AI and NLP techniques. These techniques turn unstructured data into structured data to make it easier for data scientists and analysts to do their jobs. In short, you can have NLP without text mining, but it would be difficult to do text mining without NLP. In our research group, we use both fields.
-
-## Why our interest in Text Mining and Natural Language Processing?
-We are of the opinion that these related fields are the most important technologies of the information age. Applications of both are everywhere because people communicate almost everything in <b>language (mostly text)</b>: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, and now even ChatGPT. It is important to learn the neccessary skills to perform natural language processing and text mining. 
-
-## CSIA7915 (Natural Language Processing)
-The module CSIA7915 was introduced and is highly recommended for newly enrolled MSc and PhD students who want to familiarise themselves with the current state-of-the-art in Natural Language Processing.
-
 ## Research Team
 
 Principal Investigators
@@ -59,6 +36,30 @@ Postgraduate students
 
 Completed Theses and Dissertations
 * Ian van der Linde (2020) - [A comparison of sentiment analysis techniques in a parallel and distributed NoSQL environment](https://scholar.ufs.ac.za/handle/11660/10863)
+
+## How is Business Intelligence related to Text Mining?
+Business intelligence (BI) and text mining are two distinct but interconnected fields that can complement each other in various ways. Let's explore their relationship with some examples:
+
+Data Extraction and Analysis:
+* BI involves the collection, processing, and analysis of structured data, typically from databases, to provide insights into business performance.
+* Text mining, on the other hand, deals with unstructured textual data, extracting valuable information from sources like emails, social media, and documents.
+
+Integration of Unstructured Data:
+* Text mining can contribute to BI by processing and analyzing unstructured data, converting it into a structured format that BI tools can use. This integration allows organizations to gain insights from both structured and unstructured data sources.
+
+Predictive Analytics:
+* Text mining can be used to extract features and patterns from textual data that can contribute to predictive analytics. By combining this with traditional BI data, organizations can make more accurate predictions about future trends and events.
+
+## Is Text Mining and Natural Language Processing the same?
+Text mining (or text analytics) and natural language processing (NLP) are related fields that deal with processing and analyzing textual data but they have distinct focuses and goals. Text mining is more oriented towards discovering patterns and insights from text, while NLP is concerned with a deeper understanding of language to enable machines to interact with it more intelligently. For example, NLP is rooted in computational linguistics and involves tasks such as text categorization, language understanding, translation, and language generation. These tasks utilize either rule-based or machine/deep learning systems which is a subfield of AI. Text mining applications “extract" information and insight from text using AI and NLP techniques. These techniques turn unstructured data into structured data to make it easier for data scientists and analysts to do their jobs. In short, you can have NLP without text mining, but it would be difficult to do text mining without NLP. In our research group, we use both fields.
+
+## Why our interest in Text Mining and Natural Language Processing?
+We are of the opinion that these related fields are the most important technologies of the information age. Applications of both are everywhere because people communicate almost everything in <b>language (mostly text)</b>: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, and now even ChatGPT. It is important to learn the neccessary skills to perform natural language processing and text mining. 
+
+## CSIA7915 (Natural Language Processing)
+The module CSIA7915 was introduced and is highly recommended for newly enrolled MSc and PhD students who want to familiarise themselves with the current state-of-the-art in Natural Language Processing.
+
+
 
 
 ## Table of Contents
