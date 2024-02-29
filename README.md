@@ -46,7 +46,8 @@ Research Fellows
 * [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
 
 Postdoctoral students
-* Dr Aliyu Olubunmi (2021- 2023) - Text Generation for Conversational Agents
+* Dr Aliyu Olubunmi (2024 - 2025) - Generative AI Authorship Verification / Large Langauge Models Common Sense Reasoning
+* Dr Aliyu Olubunmi (2021- 2022) - Text Generation for Conversational Agents
 
 Postgraduate students
 * Jaco Marais (PhD student) - Automated Event Extraction from Social Media Events
