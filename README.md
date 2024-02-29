@@ -34,8 +34,7 @@ Postgraduate students
 * Molise Makafane (MSc student) - Detection of Cyberbullying
 * Zama Dhladhla (MSc student) - <i>Topic still to be decided</i>
 
-Completed Theses and Dissertations
-* Ian van der Linde (2020) - [A comparison of sentiment analysis techniques in a parallel and distributed NoSQL environment](https://scholar.ufs.ac.za/handle/11660/10863)
+
 
 ## How is Business Intelligence related to Text Mining?
 Business intelligence (BI) and text mining are two distinct but interconnected fields that can complement each other in various ways. Let's explore their relationship with some examples:
@@ -124,4 +123,7 @@ We believe that these related fields are the most important technologies of the 
   
 </details>
 
+Completed Theses and Dissertations
+* Ian van der Linde (2020) - [A comparison of sentiment analysis techniques in a parallel and distributed NoSQL environment](https://scholar.ufs.ac.za/handle/11660/10863)
+  
 [comment]: # (##############################################################################################)
