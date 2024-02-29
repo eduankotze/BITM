@@ -54,13 +54,7 @@ Predictive Analytics:
 Text mining (or text analytics) and natural language processing (NLP) are related fields that deal with processing and analyzing textual data but they have distinct focuses and goals. Text mining is more oriented towards discovering patterns and insights from text, while NLP is concerned with a deeper understanding of language to enable machines to interact with it more intelligently. For example, NLP is rooted in computational linguistics and involves tasks such as text categorization, language understanding, translation, and language generation. These tasks utilize either rule-based or machine/deep learning systems which is a subfield of AI. Text mining applications “extract" information and insight from text using AI and NLP techniques. These techniques turn unstructured data into structured data to make it easier for data scientists and analysts to do their jobs. In short, you can have NLP without text mining, but it would be difficult to do text mining without NLP. In our research group, we use both fields.
 
 ## Why our interest in Text Mining and Natural Language Processing?
-We are of the opinion that these related fields are the most important technologies of the information age. Applications of both are everywhere because people communicate almost everything in <b>language (mostly text)</b>: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, and now even ChatGPT. It is important to learn the neccessary skills to perform natural language processing and text mining. 
-
-## CSIA7915 (Natural Language Processing)
-The module CSIA7915 was introduced and is highly recommended for newly enrolled MSc and PhD students who want to familiarise themselves with the current state-of-the-art in Natural Language Processing.
-
-
-
+We believe that these related fields are the most important technologies of the information age. Applications of both are everywhere because people communicate almost everything in <b>language (mostly text)</b>: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, and now even ChatGPT. It is important to learn the necessary skills to perform natural language processing and text mining. 
 
 ## Table of Contents
 
