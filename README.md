@@ -78,7 +78,8 @@ We believe that these related fields are the most important technologies of the 
 + <details>
   <summary>2024</summary>
  
-  + [Stilnet - Pyplyn vir die versameling, ontsluiting en beskikbaarstelling van materiaal vir die Nasionale Afrikaanse Letterkundige Museum en -Navorsingsentrum (NALN) se knipselversameling](https://doi.org/10.59507/stilet.2023.35.2.3)
+  + [ACDSA 2024 - Afrikaans Literacy Genre Recognition using Embeddings and Pre-Trained Multilingual Language Models](https://ieeexplore.ieee.org/document/10467838)
+  + [ACDSA 2024 - The Automatic Detection of Abusiv Language in Dota 2 Chat Messages](https://ieeexplore.ieee.org/document/10467500)
   + [TALIP - Improving Detection of Multilingual South African Abusive Language using Skip-gram and Joint Multilevel Domain Adaptation](https://dl.acm.org/doi/10.1145/3638759)
 
   </details> 
@@ -96,7 +97,7 @@ We believe that these related fields are the most important technologies of the 
   <summary>2022</summary>
  
   + [Springer - Exploring Neural Embeddings and Transformers for Isolation of Offensive and Hate Speech in South African Social Media Space](https://link.springer.com/chapter/10.1007/978-3-031-10522-7_44)
-  + [IST-Africa - Stacked Language Models for an Optimized Next Word Generation](https://ieeexplore.ieee.org/document/9845545)
+  + [IST-Africa 2023 - Stacked Language Models for an Optimized Next Word Generation](https://ieeexplore.ieee.org/document/9845545)
 
   </details> 
  
