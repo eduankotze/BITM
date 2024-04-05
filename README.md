@@ -23,7 +23,7 @@ Research Fellows
 * [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
 
 Postdoctoral students
-* Dr Adewuyi Adegbite (2024 - 2025) - Generative AI Authorship Verification / Large Langauge Models Common Sense Reasoning
+* Dr Adewuyi Adegbite (2024 - 2025) - Generative AI Authorship Verification / Detection
 * Dr Aliyu Olubunmi (2021- 2022) - Text Generation for Conversational Agents
 
 Postgraduate students
