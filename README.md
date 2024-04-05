@@ -85,8 +85,9 @@ We believe that these related fields are the most important technologies of the 
   
 + <details>
   <summary>2023</summary>
-  + [CCIS - A Feature Selection Method Based on Rough Set Attribute Reduction and Classical Filter-Based Feature Selection for Categorical Data Classification](https://doi.org/10.1007/978-3-031-46813-1_1)
+
   + [Stilnet - Pyplyn vir die versameling, ontsluiting en beskikbaarstelling van materiaal vir die Nasionale Afrikaanse Letterkundige Museum en -Navorsingsentrum (NALN) se knipselversameling](https://doi.org/10.59507/stilet.2023.35.2.3)
+  + [CCIS - A Feature Selection Method Based on Rough Set Attribute Reduction and Classical Filter-Based Feature Selection for Categorical Data Classification](https://doi.org/10.1007/978-3-031-46813-1_1)
   + [JSASA - Machine Learning for Document Classification in an Archive of the National Afrikaans Literacy Museum and Research Centre](https://www.ajol.info/index.php/jsasa/article/view/260311)
 
   </details> 
