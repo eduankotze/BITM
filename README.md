@@ -35,6 +35,7 @@ Postgraduate students
 * Molise Makafane (MSc student) - <i>Topic still to be decided</i>
 * Nhlanhla Baloyi (MSc student) - <i>Topic still to be decided</i>
 * Ernest Mohlabane (MSc student) - <i>Topic still to be decided</i>
+* Takudzwa Machida (MSc student) - <i>Topic still to be decided</i>
 
 ## How is Business Intelligence related to Text Mining?
 Business intelligence (BI) and text mining are two distinct but interconnected fields that can complement each other in various ways. Let's explore their relationship with some examples:
