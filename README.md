@@ -96,8 +96,8 @@ We believe that these related fields are the most important technologies of the 
 + <details>
   <summary>2022</summary>
  
-  + [Springer - Exploring Neural Embeddings and Transformers for Isolation of Offensive and Hate Speech in South African Social Media Space](https://link.springer.com/chapter/10.1007/978-3-031-10522-7_44)
-  + [IST-Africa 2023 - Stacked Language Models for an Optimized Next Word Generation](https://ieeexplore.ieee.org/document/9845545)
+  + [ICCSA 2022 - Exploring Neural Embeddings and Transformers for Isolation of Offensive and Hate Speech in South African Social Media Space](https://link.springer.com/chapter/10.1007/978-3-031-10522-7_44)
+  + [IST-Africa 2022 - Stacked Language Models for an Optimized Next Word Generation](https://ieeexplore.ieee.org/document/9845545)
 
   </details> 
  
