@@ -79,7 +79,7 @@ We believe that these related fields are the most important technologies of the 
   <summary>2024</summary>
  
   + [Stilnet - Pyplyn vir die versameling, ontsluiting en beskikbaarstelling van materiaal vir die Nasionale Afrikaanse Letterkundige Museum en -Navorsingsentrum (NALN) se knipselversameling](https://doi.org/10.59507/stilet.2023.35.2.3)
-  + [TALIP - Improving Detection of Multilingual South African Abusive Language using Skip-gram and Joint Multilevel Domain Adaptation](https://dx.doi.org/10.4314/jsasa.v56i1.10)
+  + [TALIP - Improving Detection of Multilingual South African Abusive Language using Skip-gram and Joint Multilevel Domain Adaptation](https://dl.acm.org/doi/10.1145/3638759)
 
   </details> 
   
