@@ -34,7 +34,7 @@ Postgraduate students (PhD)
 Postgraduate students (MSc)
 * Fezile Mfengwana (MSc student) - Neural Machine Translation for Low-Resourced South African Language isiXhosa to English: Using Transformer-based Large Language Models
 * Zama Dhladhla (MSc student) - Predicting Meteorological Drought Categories Using Graph Neural Networks
-* Teboho Motsamai (MSc student) - <i>Multilingual Text-to-SQL</i>
+* Teboho Motsamai (MSc student) - Multilingual Text-to-SQL
 * Nhlanhla Baloyi (MSc student) - <i>Topic still to be decided</i>
 * Ernest Mohlabane (MSc student) - <i>Topic still to be decided</i>
 * Takudzwa Machida (MSc student) - <i>Topic still to be decided</i>
