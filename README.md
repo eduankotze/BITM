@@ -11,8 +11,8 @@ As a research group, applications are mainly centered around the following few t
 *	[few-shot text classification](https://paperswithcode.com/task/few-shot-text-classification) / [few-shot learning](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api) / [zero-shot classification](https://huggingface.co/tasks/zero-shot-classification)
 *	[neural language models (i.e. BERT, GPT-1, GPT-2, Serengeti)](https://paperswithcode.com/task/language-modelling)
 *	[large language models (i.e. Mistral, LLama2, ChatGPT)](https://paperswithcode.com/task/large-language-model)
-*	[retrieval-augmented generation (RAG)](https://paperswithcode.com/task/rag)
-*	[chatbot (or conversational AI)](https://paperswithcode.com/task/chatbot) [PhD only]
+*	[retrieval-augmented generation (RAG)](https://paperswithcode.com/task/rag/latest)
+* [NLG (Natural Language Generation) evaluation](https://paperswithcode.com/task/nlg-evaluation/latest)
 
 ## Research Team
 
