@@ -23,16 +23,18 @@ Research Fellows
 * [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
 
 Postdoctoral students
-* Dr Adewuyi Adegbite (2024 - 2025) - Generative AI Authorship Verification / Detection
+* Dr Adewuyi Adegbite (2024 - 2025) - Generative AI Authorship Detection
 * Dr Aliyu Olubunmi (2021- 2022) - Text Generation for Conversational Agents
 
-Postgraduate students
+Postgraduate students (PhD)
 * Jaco Marais (PhD student) - Near Real-Time Monitoring of Civil Unrest in South Africa utilising Bilingual Data Sources
 * Gavin Dollman (PhD student) - Exploring Predictive Machine and Deep Learning Models for Prospecting Fossil Sites within the Elliot Formation of South Africa
 * Janet Agunbiade (PhD student) - <i>Topic still to be decided</i>
+
+Postgraduate students (MSc)
 * Fezile Mfengwana (MSc student) - Neural Machine Translation for Low-Resourced South African Language isiXhosa to English: Using Transformer-based Large Language Models
 * Zama Dhladhla (MSc student) - Predicting Meteorological Drought Categories Using Graph Neural Networks
-* Molise Makafane (MSc student) - <i>Topic still to be decided</i>
+* Teboho Motsamai (MSc student) - <i>Multilingual Text-to-SQL</i>
 * Nhlanhla Baloyi (MSc student) - <i>Topic still to be decided</i>
 * Ernest Mohlabane (MSc student) - <i>Topic still to be decided</i>
 * Takudzwa Machida (MSc student) - <i>Topic still to be decided</i>
