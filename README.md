@@ -6,11 +6,10 @@ The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/T
 There are currently [711](https://paperswithcode.com/area/natural-language-processing) state-of-the-art tasks (or topics of interest) for Natural Language Processing research.
 
 As a research group, applications are mainly centered around the following few topics of interest:
-*	[text classification](https://paperswithcode.com/task/text-classification) / [document classification](https://paperswithcode.com/task/document-classification)
-*	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection) / [abusive language detection](https://paperswithcode.com/task/abuse-detection)	
-*	[few-shot text classification](https://paperswithcode.com/task/few-shot-text-classification) / [few-shot learning](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api) / [zero-shot classification](https://huggingface.co/tasks/zero-shot-classification)
-*	[neural language models (i.e. BERT, GPT-1, GPT-2, Serengeti)](https://paperswithcode.com/task/language-modelling)
-*	[large language models (i.e. Mistral, LLama2, ChatGPT)](https://paperswithcode.com/task/large-language-model)
+*	[text classification](https://paperswithcode.com/task/text-classification/latest) / [document classification](https://paperswithcode.com/task/document-classification/latest)
+*	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection/latest/latest) / [abusive language detection](https://paperswithcode.com/task/abuse-detection/latest)	
+*	[neural language models (i.e. BERT, GPT-1, GPT-2, Serengeti)](https://paperswithcode.com/task/language-modelling/latest)
+*	[large language models (i.e. Mistral, LLama2, ChatGPT)](https://paperswithcode.com/task/large-language-model/latest)
 *	[retrieval-augmented generation (RAG)](https://paperswithcode.com/task/rag/latest)
 * [NLG (Natural Language Generation) evaluation](https://paperswithcode.com/task/nlg-evaluation/latest)
 
