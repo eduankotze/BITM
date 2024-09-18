@@ -9,7 +9,8 @@ As a research group, applications are mainly centered around the following few t
 *	[text classification](https://paperswithcode.com/task/text-classification) / [document classification](https://paperswithcode.com/task/document-classification)
 *	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection) / [abusive language detection](https://paperswithcode.com/task/abuse-detection)	
 *	[few-shot text classification](https://paperswithcode.com/task/few-shot-text-classification) / [few-shot learning](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api) / [zero-shot classification](https://huggingface.co/tasks/zero-shot-classification)
-*	[large language models (i.e. Mistral, LLama2, ChatGPT)](https://paperswithcode.com/task/language-modelling)
+*	[neural language models (i.e. BERT, GPT-1, GPT-2, Serengeti)](https://paperswithcode.com/task/language-modelling)
+*	[large language models (i.e. Mistral, LLama2, ChatGPT)](https://paperswithcode.com/task/large-language-model)
 *	[question answering](https://paperswithcode.com/area/natural-language-processing/question-answering)
 *	[chatbot (or conversational AI)](https://paperswithcode.com/task/chatbot) [PhD only]
 
