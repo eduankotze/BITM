@@ -24,7 +24,6 @@ Research Fellows
 
 Postdoctoral students
 * Dr Adewuyi Adegbite (2024 - 2025) - Generative AI Authorship Detection
-* Dr Aliyu Olubunmi (2021- 2022) - Text Generation for Conversational Agents
 
 Postgraduate students (PhD)
 * Jaco Marais (PhD student) - Near Real-Time Monitoring of Civil Unrest in South Africa utilising Bilingual Data Sources
@@ -34,10 +33,10 @@ Postgraduate students (PhD)
 Postgraduate students (MSc)
 * Fezile Mfengwana (MSc student) - Neural Machine Translation for Low-Resourced South African Language isiXhosa to English: Using Transformer-based Large Language Models
 * Zama Dhladhla (MSc student) - Predicting Meteorological Drought Categories Using Graph Neural Networks
+* Takudzwa Machida (MSc student) - Comparative Analysis of Convolutional Neural Networks, Vision Transformers and Multimodal Large Language Models for Pollen Grain Identification in South African Asteraceae Species
+* Jocelyne Smith (MSc student) - Automated Grading: Leveraging Large Language Models for Scalable Feedback and Evaluation of Introductory and Intermediate Programming Assignments
 * Teboho Motsamai (MSc student) - Multilingual Text-to-SQL
 * Nhlanhla Baloyi (MSc student) - <i>Topic still to be decided</i>
-* Ernest Mohlabane (MSc student) - <i>Topic still to be decided</i>
-* Takudzwa Machida (MSc student) - <i>Topic still to be decided</i>
 
 ## How is Business Intelligence related to Text Mining?
 Business intelligence (BI) and text mining are two distinct but interconnected fields that can complement each other in various ways. Let's explore their relationship with some examples:
