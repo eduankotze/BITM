@@ -1,4 +1,6 @@
 # 🧠 Build the Self-Attention Mechanism in PyTorch from Scratch
+By Jocelyne Smith
+May 2025
 
 In this notebook, I explore and implement the self-attention mechanism that underpins transformer-based language models. Inspired by Damien Benveniste’s slide series, **"Build The Self-Attention in PyTorch From Scratch"**, I walk through the process of recreating the self-attention layer from the ground up using PyTorch. This hands-on exercise deepened my understanding of how decoder-only transformers process sequences and learn contextual relationships between tokens.
 
