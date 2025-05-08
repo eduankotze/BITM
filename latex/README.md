@@ -1,5 +1,5 @@
-A LaTeX template for your research proposal is now available on GitHub. It includes a basic structure, formatting, and a quick-start guide to install TeXstudio and MiKTeX.
+A LaTeX template for your research proposal. It includes a basic structure, formatting, and a quick-start guide to install TeXstudio and MiKTeX.
 
-Please use this template when preparing your proposal. Let me know if you run into any issues with setup or compilation.
+Please be sure to use this template when preparing your proposal. Let me know if you run into any issues with setup or compilation.
 
 Special thanks to **Jocelyne Smith** for compiling and preparing the template.
