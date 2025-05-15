@@ -4,4 +4,4 @@ Please be sure to use this template when preparing your proposal. Let me know if
 
 Special thanks to **Jocelyne Smith** for compiling and preparing the template.
 
-UPDATED: 2025/05/15
+*UPDATED: 2025/05/15*
