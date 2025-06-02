@@ -4,7 +4,7 @@ Please be sure to use this template when preparing your proposal. Let me know if
 
 Special thanks to **Jocelyne Smith** for compiling and preparing the template.
 
-*UPDATED: 2025/05/20*
+*UPDATED: 2025/06/02*
 
 Set TeXstudio to use the XeLaTeX compiler instead of the default pdfLaTeX. 
 Required if you want to use system fonts like Arial, Calibri, etc.
