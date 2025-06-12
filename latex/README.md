@@ -4,7 +4,7 @@ It includes a basic structure, formatting, and a quick-start guide to install Te
 
 Special thanks to **Jocelyne Smith** for compiling and preparing the templates.
 
-*UPDATED: 2025/06/11*
+*UPDATED: 2025/06/12*
 
 Set TeXstudio to use the XeLaTeX compiler instead of the default pdfLaTeX. 
 Required if you want to use system fonts like Arial, Calibri, etc.
