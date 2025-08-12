@@ -8,7 +8,7 @@ There are currently [711](https://paperswithcode.com/area/natural-language-proce
 As a research group, applications are mainly centered around the following few topics of interest:
 *	[text classification](https://paperswithcode.com/task/text-classification/latest) / [document classification](https://paperswithcode.com/task/document-classification/latest)
 *	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection/latest/latest) / [abusive language detection](https://paperswithcode.com/task/abuse-detection/latest)	
-*	[neural language models (i.e. BERT, GPT-1, GPT-2, Serengeti)](https://paperswithcode.com/task/language-modelling/latest)
+*	[small language models (i.e. BERT, GPT-1, GPT-2, Serengeti)](https://paperswithcode.com/task/language-modelling/latest)
 *	[large language models (i.e. Mistral, LLama-3, ChatGPT)](https://paperswithcode.com/task/large-language-model/latest)
 *	[retrieval-augmented generation (RAG)](https://paperswithcode.com/task/rag/latest)
 * [NLG (Natural Language Generation) evaluation](https://paperswithcode.com/task/nlg-evaluation/latest)
