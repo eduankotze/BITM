@@ -5,7 +5,7 @@ The research focus is on [Digital Text Analysis](https://en.wikipedia.org/wiki/T
 
 There are currently [711](https://paperswithcode.com/area/natural-language-processing) state-of-the-art tasks (or topics of interest) for Natural Language Processing research.
 
-As a research group, applications are mainly centered around the following few topics of interest:
+As a research group, applications are mainly centred around the following few topics of interest:
 *	[text classification](https://paperswithcode.com/task/text-classification/latest) / [document classification](https://paperswithcode.com/task/document-classification/latest)
 *	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection/latest/latest) / [abusive language detection](https://paperswithcode.com/task/abuse-detection/latest)	
 *	[small language models (i.e. BERT, GPT-1, GPT-2, Serengeti)](https://paperswithcode.com/task/language-modelling/latest)
@@ -47,13 +47,13 @@ Data Extraction and Analysis:
 * Text mining, on the other hand, deals with unstructured textual data, extracting valuable information from sources like emails, social media, and documents.
 
 Integration of Unstructured Data:
-* Text mining can contribute to BI by processing and analyzing unstructured data, converting it into a structured format that BI tools can use. This integration allows organizations to gain insights from both structured and unstructured data sources.
+* Text mining can contribute to BI by processing and analysing unstructured data, converting it into a structured format that BI tools can use. This integration allows organisations to gain insights from both structured and unstructured data sources.
 
 Predictive Analytics:
-* Text mining can be used to extract features and patterns from textual data that can contribute to predictive analytics. By combining this with traditional BI data, organizations can make more accurate predictions about future trends and events.
+* Text mining can be used to extract features and patterns from textual data that can contribute to predictive analytics. By combining this with traditional BI data, organisations can make more accurate predictions about future trends and events.
 
 ## Is Text Mining and Natural Language Processing the same?
-Text mining (or text analytics) and natural language processing (NLP) are related fields that deal with processing and analyzing textual data but they have distinct focuses and goals. Text mining is more oriented towards discovering patterns and insights from text, while NLP is concerned with a deeper understanding of language to enable machines to interact with it more intelligently. For example, NLP is rooted in computational linguistics and involves tasks such as text categorization, language understanding, translation, and language generation. These tasks utilize either rule-based or machine/deep learning systems which is a subfield of AI. Text mining applications “extract" information and insight from text using AI and NLP techniques. These techniques turn unstructured data into structured data to make it easier for data scientists and analysts to do their jobs. In short, you can have NLP without text mining, but it would be difficult to do text mining without NLP. In our research group, we use both fields.
+Text mining (or text analytics) and natural language processing (NLP) are related fields that deal with processing and analysing textual data, but they differ in focus and goals. Text mining is more oriented towards discovering patterns and insights from text, while NLP is concerned with a deeper understanding of language to enable machines to interact with it more intelligently. For example, NLP is rooted in computational linguistics and involves tasks such as text categorisation, language understanding, translation, and language generation. These tasks utilise either rule-based or machine/deep learning systems, which is a subfield of AI. Text mining applications, on the other hand, focus on extracting information and insight from text, often by applying AI and NLP techniques. Such techniques convert unstructured data into structured data, making it easier for data scientists and analysts to work with. In short, you can have NLP without text mining, but it would be difficult to do text mining without NLP. In our research group, we make use of both.
 
 ## Why our interest in Text Mining and Natural Language Processing?
 We believe that these related fields are the most important technologies of the information age. Applications of both are everywhere because people communicate almost everything in <b>language (mostly text)</b>: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, and now even ChatGPT. It is important to learn the necessary skills to perform natural language processing and text mining. 
@@ -82,7 +82,7 @@ We believe that these related fields are the most important technologies of the 
   <summary>2024</summary>
  
   + [ACDSA 2024 - Afrikaans Literacy Genre Recognition using Embeddings and Pre-Trained Multilingual Language Models](https://ieeexplore.ieee.org/document/10467838)
-  + [ACDSA 2024 - The Automatic Detection of Abusiv Language in Dota 2 Chat Messages](https://ieeexplore.ieee.org/document/10467500)
+  + [ACDSA 2024 - The Automatic Detection of Abusive Language in Dota 2 Chat Messages](https://ieeexplore.ieee.org/document/10467500)
   + [TALIP - Improving Detection of Multilingual South African Abusive Language using Skip-gram and Joint Multilevel Domain Adaptation](https://dl.acm.org/doi/10.1145/3638759)
 
   </details> 
@@ -100,7 +100,7 @@ We believe that these related fields are the most important technologies of the 
   <summary>2022</summary>
  
   + [ICCSA 2022 - Exploring Neural Embeddings and Transformers for Isolation of Offensive and Hate Speech in South African Social Media Space](https://link.springer.com/chapter/10.1007/978-3-031-10522-7_44)
-  + [IST-Africa 2022 - Stacked Language Models for an Optimized Next Word Generation](https://ieeexplore.ieee.org/document/9845545)
+  + [IST-Africa 2022 - Stacked Language Models for an Optimised Next Word Generation](https://ieeexplore.ieee.org/document/9845545)
 
   </details> 
  
