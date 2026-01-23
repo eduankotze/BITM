@@ -18,10 +18,10 @@ As a research group, applications are mainly centred around the following few to
 
 Principal Investigators
 * [Prof Eduan Kotzé](https://www.ufs.ac.za/natagri/departments-and-divisions/computer-science-and-informatics-university-of-the-free-state-ufs-home/general/staff?pid=AuSiq3Lp4v0%3d)
-
+* [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
+  
 Research Fellows
 * [Dr Burgert Senekal](https://scholar.google.com/citations?user=UD1iHp4AAAAJ&hl=en)
-* [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
 
 Postdoctoral students
 * Dr Adewuyi Adegbite (2024 - 2025) - Generative AI Authorship Detection
@@ -29,7 +29,6 @@ Postdoctoral students
 Postgraduate students (PhD)
 * Jaco Marais (PhD student) - Near Real-Time Monitoring of Civil Unrest in South Africa utilising Bilingual Data Sources
 * Gavin Dollman (PhD student) - Exploring Predictive Machine and Deep Learning Models for Prospecting Fossil Sites within the Elliot Formation of South Africa
-* Janet Agunbiade (PhD student) - <i>Topic still to be decided</i>
 
 Postgraduate students (MSc)
 * Fezile Mfengwana (MSc student) - Neural Machine Translation for Low-Resourced South African Language isiXhosa to English: Using Transformer-based Large Language Models
