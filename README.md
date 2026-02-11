@@ -37,6 +37,7 @@ Postgraduate students (MSc)
 * Jocelyne Smith (MSc student) - Automated Grading: Leveraging Large Language Models for Scalable Feedback and Evaluation of Introductory and Intermediate Programming Assignments
 * Teboho Motsamai (MSc student) - Evaluating Prompt Designs for Large Language Model Output Quality in Retrieval-Augmented Pipelines using LangChain
 * Nhlanhla Baloyi (MSc student) - Experimental Analysis of Sarcasm Detection Models for Multilingual and Code-Mixing South African Languages Using Explainable AI
+* Boitumelo Ramasike (MSc student) - Developing and Evaluating an LLM-Based Debugging Coach for Novice Programmers
 
 ## How is Business Intelligence related to Text Mining?
 Business intelligence (BI) and text mining are two distinct but interconnected fields that can complement each other in various ways. Let's explore their relationship with some examples:
