@@ -28,7 +28,7 @@ Postdoctoral students
 
 Postgraduate students (PhD)
 * Jaco Marais (PhD student) - Near Real-Time Monitoring of Civil Unrest in South Africa utilising Bilingual Data Sources
-* Gavin Dollman (PhD student) - Exploring Predictive Machine and Deep Learning Models for Prospecting Fossil Sites within the Elliot Formation of South Africa
+* Gavin Dollman (PhD student) - Evaluating a Deep Learning Approach for Fossil Prospecting in the Triassic Lower Elliot Formation, South Africa
 
 Postgraduate students (MSc)
 * Fezile Mfengwana (MSc student) - Neural Machine Translation for Low-Resourced South African Language isiXhosa to English: Using Transformer-based Large Language Models
@@ -38,6 +38,7 @@ Postgraduate students (MSc)
 * Teboho Motsamai (MSc student) - Evaluating Prompt Designs for Large Language Model Output Quality in Retrieval-Augmented Pipelines using LangChain
 * Nhlanhla Baloyi (MSc student) - Experimental Analysis of Sarcasm Detection Models for Multilingual and Code-Mixing South African Languages Using Explainable AI
 * Boitumelo Ramasike (MSc student) - Developing and Evaluating an LLM-Based Debugging Coach for Novice Programmers
+* Cecil Plaatjies (MSc student) - Topic still to be determined.
 
 ## How is Business Intelligence related to Text Mining?
 Business intelligence (BI) and text mining are two distinct but interconnected fields that can complement each other in various ways. Let's explore their relationship with some examples:
