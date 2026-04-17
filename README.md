@@ -19,6 +19,7 @@ As a research group, applications are mainly centred around the following few to
 Principal Investigators
 * [Prof Eduan Kotzé](https://www.ufs.ac.za/natagri/departments-and-divisions/computer-science-and-informatics-university-of-the-free-state-ufs-home/general/staff?pid=AuSiq3Lp4v0%3d)
 * [Dr Femi Oriola](https://scholar.google.com/citations?user=qeUGmpYAAAAJ&hl=en)
+* [Dr Gavin Dollman](https://scholar.google.com/citations?user=OJPDZzQAAAAJ&hl=en)
   
 Research Fellows
 * [Dr Burgert Senekal](https://scholar.google.com/citations?user=UD1iHp4AAAAJ&hl=en)
@@ -28,7 +29,6 @@ Postdoctoral students
 
 Postgraduate students (PhD)
 * Jaco Marais (PhD student) - Near Real-Time Monitoring of Civil Unrest in South Africa utilising Bilingual Data Sources
-* Gavin Dollman (PhD student) - Evaluating a Deep Learning Approach for Fossil Prospecting in the Triassic Lower Elliot Formation, South Africa
 
 Postgraduate students (MSc)
 * Fezile Mfengwana (MSc student) - Neural Machine Translation for Low-Resourced South African Language isiXhosa to English: Using Transformer-based Large Language Models
