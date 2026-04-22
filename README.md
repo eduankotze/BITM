@@ -8,8 +8,8 @@ There are over [700](https://paperswithcode.com/area/natural-language-processing
 As a research group, applications are mainly centred around the following few topics of interest:
 *	[text classification](https://paperswithcode.com/task/text-classification/latest) / [document classification](https://paperswithcode.com/task/document-classification/latest)
 *	[hate speech detection](https://paperswithcode.com/task/hate-speech-detection/latest/latest) / [abusive language detection](https://paperswithcode.com/task/abuse-detection/latest)	
-*	[small language models (i.e. LLama3.2-1B, Gemma3-4B, Qwen2.5-15.B)](https://huggingface.co/blog/jjokah/small-language-model)
-*	[large language models (i.e. Mistral, LLama-3, ChatGPT)](https://paperswithcode.com/task/large-language-model/latest) / [survey of small language models](https://arxiv.org/abs/2410.20011)
+*	[small language models (i.e. LLama3.2-1B, Gemma3-4B, Qwen2.5-15.B)](https://huggingface.co/blog/jjokah/small-language-model) / [survey of small language models](https://arxiv.org/abs/2410.20011)
+*	[embedding models](https://dl.acm.org/doi/10.1145/3637870) 
 *	[retrieval-augmented generation (RAG)](https://paperswithcode.com/task/rag/latest)
 * [NLG (Natural Language Generation) evaluation](https://paperswithcode.com/task/nlg-evaluation/latest)
 * [LLM-generated Text Detection](https://paperswithcode.com/task/llm-generated-text-detection/latest)
